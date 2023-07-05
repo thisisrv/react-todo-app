@@ -9,7 +9,7 @@ This sample app was a part of react workshop in the 4 week Full Stack Course.
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/kabirbaidhya/react-todo-app.git
+$ git clone https://github.com/thisisrv/react-todo-app.git
 ```
 Cd into the directory and initialise the React App
 ```bash
